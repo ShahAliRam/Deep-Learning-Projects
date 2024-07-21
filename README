@@ -1,0 +1,3 @@
+Neural Style Transfer with PyTorch
+
+This project implements Neural Style Transfer using PyTorch and the VGG19 model. Neural Style Transfer is a technique that takes two images—a content image and a style image—and blends them together so that the output image looks like the content image painted in the style of the style image.
